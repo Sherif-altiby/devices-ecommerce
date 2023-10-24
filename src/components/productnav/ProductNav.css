@@ -1,0 +1,24 @@
+
+.product_nav_container{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.product_nav {
+  
+  padding: 15px 0;
+  color: gray;
+  background-color: #fff;
+}
+.product_nav a{
+  color: gray;
+
+}
+.product_nav h3 {
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
+.product_nav h4 {
+  letter-spacing: 1px;
+}

@@ -1,0 +1,23 @@
+.clothes {
+  background-color: #e3e3e3;
+  padding-bottom: 120px;
+}
+
+.clothes_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.our_products {
+  color: darkslategrey;
+  margin-top: 50px;
+  font-size: 31px;
+  letter-spacing: 3px;
+}
+
+.clothes {
+  padding: 0px 0 100px 0;
+}
